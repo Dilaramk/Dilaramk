@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Dilaramk
-- 👀 I’m interested in FinTech
-- 🌱 I’m currently learning CS50: Introduction to Computer Science
+- 👋 Hi, I’m @Dilaram
+- 👀 I’m passionate about FinTech & Webscraping
 - 💞️ I’m looking to collaborate on fintech projects
 
 <!---
